@@ -1,4 +1,4 @@
-import React, { useRef, useState } from 'react'
+import React, { useState } from 'react'
 import './Quiz.css'
 import QuizCore from '../core/QuizCore';
 import QuizQuestion from '../core/QuizQuestion';
